@@ -1,4 +1,4 @@
-package step8_01.technique;
+ package step8_01.technique;
 /*
    
 	# static
